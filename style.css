@@ -40,11 +40,12 @@ html {
     text-shadow: 0 0 4px rgba(0, 0, 0, 0.72), 0 0 14px rgba(0, 0, 0, 0.45);
     font-size: 2em;
 }
-.panel1 { background-image:url(img9.png);}
-.panel2 { background-image:url(img2.png); }
-.panel3 { background-image:url(img4.png); }
-.panel4 { background-image:url(img3.png); }
-.panel5 { background-image:url(img6.png); }
+
+.panel1 { background-image:url(./images/img9.png);}
+.panel2 { background-image:url(./images/img2.png); }
+.panel3 { background-image:url(./images/img4.png); }
+.panel4 { background-image:url(./images/img3.png); }
+.panel5 { background-image:url(./images/img6.png); }
 
 .panel >* {
         margin: 0;
